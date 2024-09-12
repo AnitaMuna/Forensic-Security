@@ -74,7 +74,7 @@ evidently showed that accuracy is generally not helpful in the dataset.
 From the above comparison, we get good and stable accuracy from all the models except MLP ANN and Naive Bayes. From
 these overall comparisons on different evaluation metrics of
 machine learning algorithms, KNN algorithm was found to be
-the best for BoT-IoT dataset.
+the best for BoT dataset.
 
 
 
