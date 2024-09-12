@@ -4,7 +4,7 @@ Intrusion detection on device network
 Botnet network is a sophisticated network of bots used
 by cyber criminals to launch malicious activities over the
 internet. Botnet based attack is one of the major challenges
-of IoT. Detection of attack in network device is notably distinct
+on network devices. Detection of attack in network device is notably distinct
 since it requires specific requirements for instance low
 latency, mobility, and distributed nature. Botnet size varies
 from small botnet consists of few hundred bots to the large
